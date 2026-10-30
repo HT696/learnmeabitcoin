@@ -196,6 +196,6 @@
         </code>
     </ol><br>
     <p><a href="https://learnmeabitcoin.com/beginners/guide/private-keys/">منبع</a></p>
-    <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/08.%20Public%20Keys.md">رفتن به مطلب بعد</a>
+    <p><a href="./Public%20Keys.html">رفتن به مطلب بعد</a>
     </p>
 </div>

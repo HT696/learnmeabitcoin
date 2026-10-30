@@ -18,7 +18,7 @@
     <img src="./images/bitcoin.svg" width="18" alt="bitcoin">در این مجموعه، هر چند اندک، سعی کردم بخش‌های مهم مفاهیم بیت‌کوین رو ترجمه کنم. تمام تلاشم این بوده که این مفاهیم رو ساده توضیح بدم تا مخاطب عام بفهمه و با این تکنولوژی آشنا بشه. با توجه به اینکه ترجمه‌ی بعضی اصطلاحات فنی در متن از انگلیسی به فارسی مشکل بود برای درک بعضی از اصطلاحات مجبور به توضیح اضافه‌تر شدم؛ اگر در قسمتی دچار کج‌فهمی شدید می‌تونید به سراغ مطلب اصلی، که آخرِ هر بخش با عنوان «منبع» اومده، برید. نکته دیگه اینه که اگه دیدید قسمتی از نوشته‌ها به اشتباه ترجمه شده یا نکته‌ای مد نظر دارید که باید بهبود داده بشه و یا انتقادی دارید می‌تونید در همین انباره‌ی گیت‌هاب مشارکت کنید. هرچی که نیازه با من در میان بذارید رو از طریق لینک‌هایی که در آخر این نوشته آوردم می‌تونید به من اعلام کنید.
     
 تمامی مطالب در وب‌سایت
-        https://learnmeabitcoin.simorgh.me/index.html
+        https://HT696.github.io/learnmeabitcoin/
         قابل مشاهده است که می‌تونید برای خوانش راحت‌تر ازش استفاده کنید
     </p>
     <h2>📄 فهرست مطالب</h2>
@@ -62,6 +62,26 @@
 </div>    
 </p>
 </div>
+
+## GitHub Pages hosting
+
+The site is configured for <https://HT696.github.io/learnmeabitcoin/>.
+
+1. In this repository's **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source.
+2. Push these changes to `webpage`. The **Deploy Jekyll site to GitHub Pages** workflow builds and publishes the site on every push to that branch.
+3. If **Settings → Environments → github-pages** restricts deployment branches, allow `webpage`.
+4. Check the workflow's deployment URL after it succeeds.
+
+The upstream `CNAME` has been removed so this fork uses its own GitHub Pages address. If you rename the repository or use a custom domain, update `url` and `baseurl` in `_config.yml`.
+
+For a local preview with Ruby and Bundler installed:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+Open <http://localhost:4000/learnmeabitcoin/>. Markdown pages without front matter use `jekyll-optional-front-matter` and the default layout configured in `_config.yml`.
 
 ## مشارکت‌کنندگان ✨
 

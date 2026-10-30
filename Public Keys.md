@@ -182,7 +182,7 @@
     <h3 id="9">نتیجه</h3>
     <p>زنده‌باد خم بیضوی.</p>
     <p><a href="https://learnmeabitcoin.com/beginners/guide/public-keys/">منبع</a></p>
-    <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/09.%20Digital%20Signatures.md">رفتن به مطلب
+    <p><a href="./Digital%20Signatures.html">رفتن به مطلب
             بعد</a></p>
     <p>لئوناردو دا وینچی: «هیچ دانشی را نمی‌توان واقعی دانست مگر آنکه به‌صورت ریاضی نوشته شود.»</p>
 </div>

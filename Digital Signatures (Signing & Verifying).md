@@ -40,7 +40,7 @@
     <br>
     <h3 id="1-1">۱- جزء تصادفی</h3>
     <p>با تولید یه عدد تصادفی شروع می‌کنیم؛ و بعد، این عدد رو با نقطه‌ی تولیدکننده‌ی خم بیضوی (نقطه‌ای که برای تولید<a
-            href="Public%20Keys.md"> کلید عمومی</a> هم
+            href="Public%20Keys.html"> کلید عمومی</a> هم
         استفاده می‌شه) ضرب می‌کنیم.
     </p>
     <img style="display: block; margin-left: auto; margin-right: auto;"

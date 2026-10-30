@@ -89,5 +89,5 @@
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/transactions/03-output-locks-accepted.png"><br><br>
     <p>و این چگونگی عملکرد تراکنش‌های بیت‌کوین بود.</p>
     <p><a href="https://learnmeabitcoin.com/beginners/transactions">منبع</a></p>
-    <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/04.%20Outputs.md">رفتن به مطلب بعد</a></p>
+    <p><a href="./Outputs.html">رفتن به مطلب بعد</a></p>
 </div>

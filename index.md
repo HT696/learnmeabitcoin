@@ -21,19 +21,19 @@
     <h2>📄 فهرست مطالب</h2>
     <p>
         <ul>
-		    <li><a href="/Bitcoin Network">Bitcoin Network - شبکه‌ی بیت‌کوین</a></li>
-			<li><a href="/Nodes">Nodes - گره‌ها</a></li>
-            <li><a href="/Blockchain">Blockchain - زنجیره‌بلوک</a></li>
-            <li><a href="/Blocks">Blocks - بلوک‌ها</a></li>
-            <li><a href="/Difficulty">Difficulty - سختی شبکه</a></li>
-            <li><a href="/Transactions">Transactions - تراکنش‌ها</a></li>
-            <li><a href="/Outputs">Outputs - خروجی‌ها</a></li>
-            <li><a href="/Output%20Locks">Output Locks - قفل‌های خروجی</a></li>
-            <li><a href="/Keys%20%26%20Addresses">Keys & Addresses - کلیدها و آدرس‌ها</a></li>
-            <li><a href="/Private%20Keys">Private Keys - کلید خصوصی</a></li>
-            <li><a href="/Public%20Keys">Public Keys - کلید عمومی</a></li>
-            <li><a href="/Digital%20Signatures">Digital Signatures - امضای دیجیتال</a></li>
-            <li><a href="/Digital%20Signatures%20(Signing%20%26%20Verifying)">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و راستی‌آزمایی)</a></li>
+		    <li><a href="{{ '/Bitcoin%20Network.html' | relative_url }}">Bitcoin Network - شبکه‌ی بیت‌کوین</a></li>
+			<li><a href="{{ '/Nodes.html' | relative_url }}">Nodes - گره‌ها</a></li>
+            <li><a href="{{ '/Blockchain.html' | relative_url }}">Blockchain - زنجیره‌بلوک</a></li>
+            <li><a href="{{ '/Blocks.html' | relative_url }}">Blocks - بلوک‌ها</a></li>
+            <li><a href="{{ '/Difficulty.html' | relative_url }}">Difficulty - سختی شبکه</a></li>
+            <li><a href="{{ '/Transactions.html' | relative_url }}">Transactions - تراکنش‌ها</a></li>
+            <li><a href="{{ '/Outputs.html' | relative_url }}">Outputs - خروجی‌ها</a></li>
+            <li><a href="{{ '/Output%20Locks.html' | relative_url }}">Output Locks - قفل‌های خروجی</a></li>
+            <li><a href="{{ '/Keys%20%26%20Addresses.html' | relative_url }}">Keys & Addresses - کلیدها و آدرس‌ها</a></li>
+            <li><a href="{{ '/Private%20Keys.html' | relative_url }}">Private Keys - کلید خصوصی</a></li>
+            <li><a href="{{ '/Public%20Keys.html' | relative_url }}">Public Keys - کلید عمومی</a></li>
+            <li><a href="{{ '/Digital%20Signatures.html' | relative_url }}">Digital Signatures - امضای دیجیتال</a></li>
+            <li><a href="{{ '/Digital%20Signatures%20(Signing%20%26%20Verifying).html' | relative_url }}">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و راستی‌آزمایی)</a></li>
         </ul>
     </p>
     <h2>🙌 مشارکت</h2>

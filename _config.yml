@@ -1,5 +1,28 @@
 title: learnmeabitcoin
 description: آموزش ساده مفاهیم مهم در بیت کوین
+url: "https://HT696.github.io"
+baseurl: "/learnmeabitcoin"
+repository: HT696/learnmeabitcoin
+lang: fa
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-optional-front-matter
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - jekyll-theme-midnight.gemspec
+  - script
+  - vendor
